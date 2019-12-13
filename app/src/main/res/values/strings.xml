@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">LabProject</string>
+    <string name="option1">University</string>
+    <string name="option2">Weather</string>
+    <string-array name="varsity_names">
+        <item>KUET</item>
+        <item>BUET</item>
+        <item>RUET</item>
+        <item>CUET</item>
+        <item>IUT</item>
+        <item>Medical</item>
+        <item>DU</item>
+        <item>BAU</item>
+        <item>SUST</item>
+        <item>JU</item>
+        <item>RU</item>
+        <item>CU</item>
+
+    </string-array>
+    <string name="kuet">KUET is one of the leading public engineering universities in Bangladesh.\n
+    It has 16 departments, 7 halls (one for girls) and an attractive campus.It is located in Khulna.</string>
+
+    <string name="buet">BUET is one of the leading public engineering universities in Bangladesh.\n
+    It has 12 departments, 5 halls (one for girls) and an attractive campus.It is located in Dhaka.</string>
+
+    <string name="ruet">RUET is one of the leading public engineering universities in Bangladesh.\n
+    It has 15 departments, 5 halls (one for girls) and an attractive campus.It is located in Rajshahi.</string>
+
+    <string name="cuet">CUET is one of the leading public engineering universities in Bangladesh.\n
+    It has 12 departments, 5 halls (one for girls) and an attractive campus.It is located in Chittagong.</string>
+
+    <string name="iut">IUT is one of the leading private engineering universities in Bangladesh.\n
+    It has 5 departments, 2 halls (one for girls) and an attractive campus.It is located in Gazipur.</string>
+
+    <string name="medical">Bangladesh has many qualitive medical college. There are 35 medical\n
+    colleges in Bangladesh. About 3500 students get admitted in different medical colleges every year.</string>
+
+    <string name="du">DU is one of the leading public universities in Bangladesh.\n
+    It has science,arts and commerce sectors, 24 halls (four for girls) and an attractive campus.It is located in Dhaka.</string>
+
+    <string name="ru">RU is one of the leading public universities in Bangladesh.\n
+    It has science,arts and commerce sectors, 17 halls (six for girls) and an attractive campus.It is located in Rajshahi.</string>
+
+    <string name="cu">CU is one of the leading public universities in Bangladesh.\n
+    It has science,arts and commerce sectors, 13 halls (five for girls) and an attractive campus.It is located in Chittagong.</string>
+
+    <string name="ju">JU is one of the leading public universities in Bangladesh.\n
+    It has science,arts and commerce sectors, 9 halls (three for girls) and an attractive campus.It is located in Savar.</string>
+
+    <string name="bau">BAU is one of the leading public agricultural universities in Bangladesh.\n
+    It has science,arts and commerce sectors, 13 halls (four for girls) and an attractive campus.It is located in Mymensingh.</string>
+
+    <string name="sust">SUST is one of the leading public science and technology universities in Bangladesh.\n
+    It has science,arts and commerce sectors, 5 halls (two for girls) and an attractive campus.It is located in Sylhet.</string>
+
+</resources>

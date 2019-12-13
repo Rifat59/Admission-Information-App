@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.labproject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="Admission Information"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".KUET" />
+        <activity android:name=".RUET" />
+        <activity android:name=".CUET" />
+        <activity android:name=".BUET" />
+        <activity android:name=".IUT" />
+        <activity android:name=".DU" />
+        <activity android:name=".HomePage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Weather" />
+        <activity android:name=".KUET_Homepage" />
+        <activity android:name=".BUET_Homepage" />
+        <activity android:name=".RUET_Homepage" />
+        <activity android:name=".CUET_Homepage" />
+        <activity android:name=".IUT_Homepage" />
+        <activity android:name=".DU_Homepage" />
+        <activity android:name=".RU_Homepage" />
+        <activity android:name=".RU" />
+        <activity android:name=".CU" />
+        <activity android:name=".CU_Homepage" />
+        <activity android:name=".BAU" />
+        <activity android:name=".BAU_Homepage" />
+        <activity android:name=".SUST" />
+        <activity android:name=".SUST_Homepage" />
+        <activity android:name=".JU" />
+        <activity android:name=".JU_Homepage" />
+        <activity android:name=".Medical_Homepage" />
+        <activity android:name=".Medical"></activity>
+    </application>
+
+</manifest>
